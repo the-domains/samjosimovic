@@ -16,13 +16,13 @@ keywords:
   - '2015'
   - differences
   - business
-description: "Make distance and diversity your competitive advantages \"Erin Meyer and participants of INSEAD's Managing Global Virtual Teams programme discuss the challenges faced by global teams and how you can leverage your team's cultural diversity."
-datePublished: '2015-12-17T02:10:26.086Z'
-dateModified: '2015-12-17T02:10:08.927Z'
+description: ''
+datePublished: '2015-12-17T02:16:16.702Z'
+dateModified: '2015-12-17T02:16:05.583Z'
 author: []
 related: []
 app_links: []
-title: 'HBR.org: Getting to Si, Ja, Oui, Hai, and Da'
+title: 'HBR.org: Getting to Si, Ja, Oui, Hai, and Da by Erin Meyer'
 sourcePath: _posts/2015-12-17-managing-virtual-teams-or-executive-education-insead.md
 published: true
 authors: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>HBR.org International Business: Getting to Si, Ja, Oui, Hai, and Da</h1><p>Getting to Si, Ja, Oui, Hai, and Da</p></article>
+<article style=""><h1>HBR.org</h1><p>Getting to Si, Ja, Oui, Hai, and Da</p></article>

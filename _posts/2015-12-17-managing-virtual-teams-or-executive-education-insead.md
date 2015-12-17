@@ -17,8 +17,8 @@ keywords:
   - differences
   - business
 description: ''
-datePublished: '2015-12-17T02:16:16.702Z'
-dateModified: '2015-12-17T02:16:05.583Z'
+datePublished: '2015-12-17T02:18:55.413Z'
+dateModified: '2015-12-17T02:18:45.277Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>HBR.org</h1><p>Getting to Si, Ja, Oui, Hai, and Da</p></article>
+<article style=""><h1>Getting to Si, Ja, Oui, Hai, and Da</h1><p>Getting to Si, Ja, Oui, Hai, and Da</p></article>

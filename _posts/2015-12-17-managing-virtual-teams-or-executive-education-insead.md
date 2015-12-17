@@ -17,8 +17,8 @@ keywords:
   - differences
   - business
 description: ''
-datePublished: '2015-12-17T02:21:21.438Z'
-dateModified: '2015-12-17T02:21:05.625Z'
+datePublished: '2015-12-17T02:22:49.948Z'
+dateModified: '2015-12-17T02:22:38.818Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Getting to Si, Ja, Oui, Hai, and Da</h1><p>Getting to Si, Ja, Oui, Hai, and Da</p></article>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d3219c-11a6-4452-a1a2-ee9a783ae021.jpg)
+
+<article style=""><h1>Getting to Si, Ja, Oui, Hai, and Da</h1><p>Getting to Si, Ja, Oui, Hai, and Da</p></article>

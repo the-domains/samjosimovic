@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sam Josimovic]]></title>
         <description><![CDATA[Sam Josimovic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/samjosimovic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 01:47:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 02:01:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samjosimovic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Managing Virtual Teams | Executive Education INSEAD]]></title>
+            <description><![CDATA[<article><h1>Managing Virtual Teams | Executive Education INSEAD</h1><p>Make distance and diversity your competitive advantages "Erin Meyer and participants of INSEAD's Managing Global Virtual Teams programme discuss the challenges faced by global teams and how you can leverage your team's cultural diversity.</p></article>]]></description>
+            <link>http://executive-education.insead.edu/managing_global_virtual_teams</link>
+            <guid isPermaLink="false">495584c7-4588-48df-943b-93746409279b</guid>
+            <pubDate>Thu, 17 Dec 2015 02:01:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/378800000852839085/f4f17e44e831b5940e963937a94b8214_400x400.jpeg">]]></description>
-            <link>undefined4f22a93a-95ad-4739-b178-ad0b31d66016/index.html</link>
+            <link>https://thegrid.ai/samjosimovic/4f22a93a-95ad-4739-b178-ad0b31d66016/index.html</link>
             <guid isPermaLink="false">4f22a93a-95ad-4739-b178-ad0b31d66016</guid>
             <pubDate>Thu, 17 Dec 2015 01:47:07 GMT</pubDate>
         </item>

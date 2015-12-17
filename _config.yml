@@ -1,7 +1,7 @@
 name: samjosimovic
 favicon: null
 layout_spectrum: 0.44805812812410295
-typography_spectrum: 0.3770280710887164
+typography_spectrum: 0.95959
 title: Sam Josimovic
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#F4EEA9'
     - '#F4F482'
   brandStrength: 0.3046866049990058
-  lightness: 0.38098305533640087
+  lightness: 0.375
   saturation: 0.7589004142209888
-  rhythmicContrast: 0.41052325279451907
+  rhythmicContrast: 0.25
 purpose: []
